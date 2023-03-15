@@ -1,0 +1,33 @@
+.textcenter{
+  width: 500px;
+  margin: 0 auto;
+  background-color: black;
+  padding: 50px;
+  opacity: 0.8;
+
+}
+button{
+  color: black;
+  font-weight: bold;
+  border-radius: 0%;
+ padding: 2px;
+ width: 30%;
+  
+} 
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('https://source.unsplash.com/1600x900/?');
+}
+h1{
+  color: white;
+
+}
+p{
+  color: white;
+}
+input{
+  width: 100%;
+}
